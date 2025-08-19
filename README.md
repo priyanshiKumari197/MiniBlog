@@ -24,12 +24,12 @@ This project demonstrates **full CRUD operations** and is styled with a responsi
 
 ## 📂 Project Structure
 MiniBlog/
-│── public/ # Static files (CSS, JS, images)
-│── views/ # EJS templates
-│ ├── index.ejs
-│ ├── show.ejs
-│ ├── edit.ejs
-│ └── new.ejs
-│── app.js # Main server file
-│── package.json
-│── README.md
+- │── public/ # Static files (CSS, JS, images)
+- │── views/ # EJS templates
+- │ ├── index.ejs
+- │ ├── show.ejs
+- │ ├── edit.ejs
+- │ └── new.ejs
+- │── app.js # Main server file
+- │── package.json
+- │── README.md
